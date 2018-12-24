@@ -30,3 +30,4 @@ client.on('guildMemberAdd', Sal => { //By aymen
 });
     });
 
+client.login(process.env.BOT_TOKEN);
